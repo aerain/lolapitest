@@ -1,0 +1,17 @@
+{
+  "name": "makecsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "json-2-csv": "^3.4.1",
+    "lol-api": "git+https://git@github.com/aerain/lolsdktest.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
